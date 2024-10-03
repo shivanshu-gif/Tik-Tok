@@ -8,3 +8,18 @@ TikTok users have the ability to report videos and comments that contain user cl
 
 TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
 
+
+
+Part 1 of Project:-
+
+Project background
+TikTok’s data team is in the earliest stages of the claims classification project. The following tasks are needed before the team can begin the data analysis process:
+
+1.Build a dataframe for the TikTok dataset
+
+2.Examine data type of each column
+
+3.Gather descriptive statistics
+
+
+
