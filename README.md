@@ -21,5 +21,21 @@ TikTok’s data team is in the earliest stages of the claims classification proj
 
 3.Gather descriptive statistics
 
+Part 2 of Project:-
 
+1.EDA and cleaning
+
+2.Select and build visualization(s) type
+
+3.Create plots to visualize variables and relationships between variables
+
+4.Share your results with the TikTok team
+
+Part 3 of Project:-
+
+1.Explore the project data
+
+2.Implement a hypothesis test
+
+3.Communicate insights with stakeholders within TikTok
 
